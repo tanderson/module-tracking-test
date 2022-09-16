@@ -1,3 +1,3 @@
 # module-tracking-test
 
-test 6
+test 7
